@@ -15,7 +15,8 @@
        alt="snake" /></a>
 </div>
 
-<h3 align="center">👩‍💻Welcome aboard the Github profile of a dedicated Tech enthusiast👾</h3>
+<h1 align="center">Ahoy Mate 🫡 I'm Priyosmita!</h1>
+<h3 align="center">Welcome aboard the Github profile of a dedicated Tech enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyosmita&label=Profile%20views&color=0e75b6&style=flat" alt="priyosmita" /> </p>
 
@@ -33,10 +34,14 @@
 
 - 💡 Did you know? **🐙 Octopuses have 3 hearts!**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyosmita-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyosmita-das" height="30" width="40" /></a>
-<a href="https://medium.com/priyosmita das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="priyosmita das" height="30" width="40" /></a>
+<a href="https://medium.com/@daspriyosmita2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daspriyosmita2003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
