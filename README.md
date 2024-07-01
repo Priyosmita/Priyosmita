@@ -1,6 +1,3 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -8,9 +5,7 @@
   </ul>
 </div>
 
-
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://user-images.githubusercontent.com/73097560/115849267-68acca80-a460-11eb-9b57-9d5e8f70442f.jpg" alt="realistic snake" />
 </div>
