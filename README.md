@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Ahoy Mate 👋, I'm Priyosmita</h1></summary>
+    <summary><h1 style="display: inline-block">Ahoy Mate 🫡, I'm Priyosmita</h1></summary>
   </ul>
 </div>
 
@@ -15,7 +15,6 @@
        alt="snake" /></a>
 </div>
 
-<h1 align="center">Ahoy Mate 🫡 I'm Priyosmita!</h1>
 <h3 align="center">Welcome aboard the Github profile of a dedicated Tech enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyosmita&label=Profile%20views&color=0e75b6&style=flat" alt="priyosmita" /> </p>
