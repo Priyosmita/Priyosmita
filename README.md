@@ -30,7 +30,7 @@
 
 - 📫 Connect with me **daspriyosmita2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KmT-H-I-G3JvjYBXM-Qb9xuZXJ_VQLkZ/view?usp=drive_link](https://drive.google.com/file/d/1KmT-H-I-G3JvjYBXM-Qb9xuZXJ_VQLkZ/view?usp=drive_link)
+- 📄 Know about my [Experiences](https://drive.google.com/file/d/1KmT-H-I-G3JvjYBXM-Qb9xuZXJ_VQLkZ/view?usp=drive_link)
 
 - 💡 Did you know? **🐙 Octopuses have 3 hearts!**
 
