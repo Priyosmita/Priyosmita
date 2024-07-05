@@ -22,7 +22,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🚀 I’m currently working on [Kali Yug](https://github.com/Priyosmita/Kali-Yug)
+- 🚀 I’m currently working on [Kali Yug](https://github.com/Priyosmita/Kali-Yug) & [Kawatch](https://github.com/Priyosmita/Kawatch)
 
 - 🌱 I’m currently learning **MERN stack, Web 3**
 
