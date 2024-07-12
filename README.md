@@ -18,7 +18,6 @@
 <h1 align="center">Ahoy Mate 🫡 I'm Priyosmita!</h1>
 <h3 align="center">Welcome aboard the Github profile of a dedicated Tech enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyosmita&label=Profile%20views&color=0e75b6&style=flat" alt="priyosmita" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -63,7 +62,6 @@
 <p style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyosmita&show_icons=true&locale=en&layout=compact&theme=dark&title_color=8085F0" alt="priyosmita" />
 </p>
-
 <p style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=priyosmita&show_icons=true&locale=en&theme=dark&title_color=F579DD" alt="priyosmita" />
 </p>
@@ -71,6 +69,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyosmita&theme=dark&ring=FE8300&fire=FD5400&currStreakNum=FDBC00&sideNums=32cd32&sideLabels=ffa500&dates=adff2f&currStreakLabel=FF0061" alt="priyosmita" />
 </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyosmita&label=Profile%20views&color=A383FF&style=flat" alt="priyosmita" /> </p>
 
 
