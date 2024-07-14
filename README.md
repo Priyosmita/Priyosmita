@@ -11,10 +11,10 @@
 
 <!--- snake -->
 <div align="center">
-  
-</div>
-<img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
+</div>
+
 <h1 align="center">Ahoy Mate 🫡 I'm Priyosmita!</h1>
 <h3 align="center">Welcome aboard the Github profile of a dedicated Tech enthusiast</h3>
 
