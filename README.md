@@ -23,7 +23,7 @@
 
 - 🚀 I’m currently working on [Kali Yug](https://github.com/Priyosmita/Kali-Yug), [Kawatch](https://github.com/Priyosmita/Kawatch) & [EcoPrint](https://github.com/Priyosmita/EcoPrint)
 
-- 🌱 I’m currently learning **MERN stack, Web 3**
+- 🌱 I’m currently learning **MERN stack, Web 3, AI/ML**
 
 - 💬 Ask me about **Unreal Engine, Gaming, Web Design**
 
