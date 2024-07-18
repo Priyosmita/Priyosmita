@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **MERN stack, Web 3, AI/ML**
 
-- 💬 Ask me about **Unreal Engine, Gaming, Web Design**
+- 💬 Ask me about **Unreal Engine 5, Gaming, Web Design**
 
 - 📫 Connect with me **daspriyosmita2003@gmail.com**
 
@@ -41,7 +41,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyosmita-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyosmita-das" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
