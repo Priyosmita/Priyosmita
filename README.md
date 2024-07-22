@@ -57,7 +57,7 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="70" height="70"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> </a> 
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="nextjs" width="70" height="70"/> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/8939680/57233884-20344080-6fe5-11e9-8df3-0df1282e1574.png" alt="express" width="150" height="70"/> </a>
+    <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/8939680/57233884-20344080-6fe5-11e9-8df3-0df1282e1574.png" alt="express" width="170" height="70"/> </a>
 </p>
 
 <p style="text-align: center;">
