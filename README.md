@@ -36,7 +36,7 @@
 
 - 🚀 I’m currently working on [Kali Yug](https://github.com/Priyosmita/Kali-Yug) & [EcoPrint](https://github.com/Priyosmita/EcoPrint)
 
-- 🌱 I’m currently learning **MERN stack, Web 3, AI/ML**
+- 🌱 I’m currently learning **Backend, Web 3, AI/ML**
 
 - 💬 Ask me about **Unreal Engine 5, Gaming, Web Design**
 
