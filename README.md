@@ -32,9 +32,11 @@
 <h3 align="center">Welcome aboard the Github profile of a dedicated Tech enthusiast</h3>
 
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🚀 I’m currently working on [Kali Yug](https://github.com/Priyosmita/Kali-Yug) & [EcoPrint](https://github.com/Priyosmita/EcoPrint)
+### 🦋 About Me 
+- 🚀 I’m currently working on [AIkya](https://github.com/Priyosmita/AIkya), [Kali Yug](https://github.com/Priyosmita/Kali-Yug) & [EcoPrint](https://github.com/Priyosmita/EcoPrint)
 
 - 🌱 I’m currently learning **Backend, Web 3, AI/ML**
 
@@ -46,17 +48,17 @@
 
 - 💡 Did you know? **🐙 Octopuses have 3 hearts!**
 
-### Blogs posts
+### ✒️ Blogs posts 
 <a href="https://medium.com/@daspriyosmita2003" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Hpbjsce8cvgTiprxRPHitz8slLyNdJFGOA&s" alt="priyosmita-das" height="30" width="130" /></a>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyosmita-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyosmita-das" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">👩‍💻 Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
