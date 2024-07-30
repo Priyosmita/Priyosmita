@@ -32,7 +32,7 @@
 <h3 align="center">Welcome aboard the Github profile of a dedicated Tech enthusiast</h3>
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🚀 I’m currently working on [Kali Yug](https://github.com/Priyosmita/Kali-Yug) & [EcoPrint](https://github.com/Priyosmita/EcoPrint)
 
