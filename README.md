@@ -46,7 +46,7 @@
 
 - 📄 Know about my [Experiences](https://drive.google.com/file/d/1KmT-H-I-G3JvjYBXM-Qb9xuZXJ_VQLkZ/view?usp=drive_link)
 
-- 💡 Did you know? **🐙 Octopuses have 3 hearts!**
+- 🏆 **NASA Space Apps Noida '24 Finalist, Google Hack4Change '24 Finalist, Wix Creators of Tomorrow Finalist, Upskill Mafia Web Dev Hackathon '24 Winner**
 
 ### ✒️ Blogs posts 
 <a href="https://medium.com/@daspriyosmita2003" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Hpbjsce8cvgTiprxRPHitz8slLyNdJFGOA&s" alt="priyosmita-das" height="30" width="130" /></a>
