@@ -36,7 +36,9 @@
 
 
 ### 🦋 About Me 
-- 🚀 I’m currently working on [AIkya](https://github.com/Priyosmita/AIkya), [Kali Yug](https://github.com/Priyosmita/Kali-Yug) & [EcoPrint](https://github.com/Priyosmita/EcoPrint)
+- 🚀 I’m currently working on [AIkya](https://github.com/Priyosmita/AIkya), [Kali Yug](https://github.com/Priyosmita/Kali-Yug), [SIH 24](https://github.com/Priyosmita/SIH-24-frontend)
+
+- 👩‍💻 I'm currently an intern at **RDK Technologies**
 
 - 🌱 I’m currently learning **Backend, Web 3, AI/ML**
 
@@ -46,7 +48,7 @@
 
 - 📄 Know about my [Experiences](https://drive.google.com/file/d/1KmT-H-I-G3JvjYBXM-Qb9xuZXJ_VQLkZ/view?usp=drive_link)
 
-- 🏆 **NASA Space Apps Noida '24 Finalist, Google Hack4Change '24 Finalist, Wix Creators of Tomorrow Finalist, Upskill Mafia Web Dev Hackathon '24 Winner**
+- 🏆 **NASA Space Apps Noida '24 Winner, Google Hack4Change '24 Finalist, Wix Creators of Tomorrow Finalist, SIH '24 Finalist, Upskill Mafia Web Dev Hackathon '24 Winner**
 
 ### ✒️ Blogs posts 
 <a href="https://medium.com/@daspriyosmita2003" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Hpbjsce8cvgTiprxRPHitz8slLyNdJFGOA&s" alt="priyosmita-das" height="30" width="130" /></a>
