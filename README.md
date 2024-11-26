@@ -8,8 +8,8 @@
   </ul> -->
 </div>
 
-
-
+![Snake Animation](https://raw.githubusercontent.com/Priyosmita/Priyosmita/output/snake.svg)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Ahoy Mate 🫡 I'm Priyosmita!</h1>
 <h3 align="center">Welcome aboard the Github profile of a dedicated Tech enthusiast</h3>
