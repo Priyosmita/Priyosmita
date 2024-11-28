@@ -18,7 +18,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-### 🦋 About Me 
+## 🦋 About Me 
 - 🚀 I’m currently working on [AIkya](https://github.com/Priyosmita/AIkya), [Kali Yug](https://github.com/Priyosmita/Kali-Yug), [SIH 24](https://github.com/Priyosmita/SIH-24-frontend)
 
 - 👩‍💻 I'm currently an intern at **RDK Technologies**
@@ -33,7 +33,8 @@
 
 - 🏆 **NASA Space Apps Noida '24 Winner, Google Hack4Change '24 Finalist, Wix Creators of Tomorrow Finalist, SIH '24 Finalist, Upskill Mafia Web Dev Hackathon '24 Winner**
 
-### ✒️ Blogs posts 
+
+## ✒️ Blogs posts 
 <a href="https://medium.com/@daspriyosmita2003" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Hpbjsce8cvgTiprxRPHitz8slLyNdJFGOA&s" alt="priyosmita-das" height="30" width="130" /></a>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
