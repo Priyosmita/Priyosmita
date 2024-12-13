@@ -19,7 +19,7 @@
 
 
 ## 🦋 About Me 
-- 🚀 I’m currently working on [AIkya](https://github.com/Priyosmita/AIkya), [Kali Yug](https://github.com/Priyosmita/Kali-Yug), [SIH 24](https://github.com/Priyosmita/SIH-24-frontend)
+- 🚀 I’m currently working on [AIkya](https://github.com/Priyosmita/AIkya) and [Kali Yug](https://github.com/Priyosmita/Kali-Yug)
 
 - 👩‍💻 I'm currently an intern at **RDK Technologies**
 
