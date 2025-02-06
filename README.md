@@ -63,7 +63,7 @@
     <img src="https://play-lh.googleusercontent.com/U4LDRU0MPf22CUPk6jRXO1JW4uuoRoGePkHxUp097T_K-wAUsdhe6PZs8XJZ5_LA8KA=w600-h300-pc0xffffff-pd" alt="wix studio" width="115" height="50"/>
 </p>
 
-<h3 align="left">👩‍💻 Game Development:</h3>
+<h3 align="left">🎮 Game Development:</h3>
 <p align="left"> 
     <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal engine 5" width="58" height="50"/>
     <img src="https://www.pygame.org/docs/_static/pygame_logo.svg" alt="pygame" width="90" height="50"/>  
