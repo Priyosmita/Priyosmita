@@ -70,6 +70,18 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Roblox_Studio_logo_-_2017-2021.svg/916px-Roblox_Studio_logo_-_2017-2021.svg.png?20221117210703" alt="roblox studio" width="50" height="50"/>
 </p>
 
+<h3 align="left">🌐 Web Development:</h3>
+<p align="left"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+    <img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="nextjs" width="50" height="50"/>
+    <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png" alt="threejs" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chart.js_logo.svg/768px-Chart.js_logo.svg.png" alt="chartjs" width="50" height="50"/>
+</p>
+
 <p style="text-align: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyosmita&theme=dark&ring=FE8300&fire=FD5400&currStreakNum=FDBC00&sideNums=32cd32&sideLabels=ffa500&dates=adff2f&currStreakLabel=FF0061" alt="priyosmita" />
 </p>
