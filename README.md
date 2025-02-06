@@ -25,8 +25,6 @@
 
 - 🌱 Constantly learning
 
-- 💬 Ask me about **Unreal Engine 5, Gaming, Web Design**
-
 - 📫 Connect with me **daspriyosmita2003@gmail.com**
 
 - 📄 Know about my [Experiences](https://drive.google.com/file/d/1KmT-H-I-G3JvjYBXM-Qb9xuZXJ_VQLkZ/view?usp=drive_link)
@@ -36,6 +34,8 @@
 - 🏆 **NASA Space Apps Noida '24 Winner, Google Hack4Change '24 Finalist, Wix Creators of Tomorrow Finalist (Global Top 5), SIH '24 Finalist, Upskill Mafia Web Dev Hackathon '24 Winner**
 
 - 💫 My hobbies are [🎧,🎸,🩰,🎮,🌊,📸,🪴,🎨]
+
+- 💬 I can speak **English, বাংলা and हिन्दी**
 
 </br>
 
