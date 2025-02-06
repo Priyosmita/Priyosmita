@@ -33,16 +33,19 @@
 
 - 🏆 **NASA Space Apps Noida '24 Winner, Google Hack4Change '24 Finalist, Wix Creators of Tomorrow Finalist (Global Top 5), SIH '24 Finalist, Upskill Mafia Web Dev Hackathon '24 Winner**
 
+</br>
 
 ## ✒️ Blogs posts 
 <a href="https://medium.com/@daspriyosmita2003" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Hpbjsce8cvgTiprxRPHitz8slLyNdJFGOA&s" alt="priyosmita-das" height="30" width="130" /></a>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+</br>
 
 ## 🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyosmita-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyosmita-das" height="30" width="40" /></a>
 </p>
+
+</br>
 
 ## 🛠️ Tools:
 <h3 align="left">👩‍💻 Languages</h3>
@@ -78,7 +81,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="" height="30"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Microsoft_365_Copilot_Icon.svg/72px-Microsoft_365_Copilot_Icon.svg.png" alt="copilot" width="" height="40"/>
 </p>
+</br>
 
+##
 <p style="text-align: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyosmita&theme=dark&ring=FE8300&fire=FD5400&currStreakNum=FDBC00&sideNums=32cd32&sideLabels=ffa500&dates=adff2f&currStreakLabel=FF0061" alt="priyosmita" />
 </p>
