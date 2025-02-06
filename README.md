@@ -59,8 +59,15 @@
     <img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="nextjs" width="50" height="50"/>
     <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png" alt="threejs" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chart.js_logo.svg/768px-Chart.js_logo.svg.png" alt="chartjs" width="50" height="50"/>
-    <img src="https://user-images.githubusercontent.com/8939680/57233884-20344080-6fe5-11e9-8df3-0df1282e1574.png" alt="axios" width="130" height="50"/>
+    <!--<img src="https://user-images.githubusercontent.com/8939680/57233884-20344080-6fe5-11e9-8df3-0df1282e1574.png" alt="axios" width="130" height="50"/>-->
     <img src="https://play-lh.googleusercontent.com/U4LDRU0MPf22CUPk6jRXO1JW4uuoRoGePkHxUp097T_K-wAUsdhe6PZs8XJZ5_LA8KA=w600-h300-pc0xffffff-pd" alt="wix studio" width="115" height="50"/>
+</p>
+
+<h3 align="left">👩‍💻 Game Development:</h3>
+<p align="left"> 
+    <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal engine 5" width="58" height="50"/>
+    <img src="https://www.pygame.org/docs/_static/pygame_logo.svg" alt="pygame" width="90" height="50"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Roblox_Studio_logo_-_2017-2021.svg/916px-Roblox_Studio_logo_-_2017-2021.svg.png?20221117210703" alt="roblox studio" width="50" height="50"/>
 </p>
 
 <p style="text-align: center;">
