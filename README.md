@@ -50,18 +50,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-    <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal" width="58" height="50"/>
-    <img src="https://www.pygame.org/docs/_static/pygame_logo.svg" alt="pygame" width="90" height="50"/>  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-    <img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="nextjs" width="50" height="50"/>
-    <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png" alt="threejs" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chart.js_logo.svg/768px-Chart.js_logo.svg.png" alt="chartjs" width="50" height="50"/>
-    <!--<img src="https://user-images.githubusercontent.com/8939680/57233884-20344080-6fe5-11e9-8df3-0df1282e1574.png" alt="axios" width="130" height="50"/>-->
-    <img src="https://play-lh.googleusercontent.com/U4LDRU0MPf22CUPk6jRXO1JW4uuoRoGePkHxUp097T_K-wAUsdhe6PZs8XJZ5_LA8KA=w600-h300-pc0xffffff-pd" alt="wix studio" width="115" height="50"/>
 </p>
 
 <h3 align="left">🎮 Game Development:</h3>
