@@ -59,14 +59,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 </p>
 
-<h3 align="left">🎮 Game Development:</h3>
+<h3 align="left">🎮 Game Development</h3>
 <p align="left"> 
     <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal engine 5" width="58" height="50"/>
     <img src="https://www.pygame.org/docs/_static/pygame_logo.svg" alt="pygame" width="90" height="50"/>  
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Roblox_Studio_logo_-_2017-2021.svg/916px-Roblox_Studio_logo_-_2017-2021.svg.png?20221117210703" alt="roblox studio" width="50" height="50"/>
 </p>
 
-<h3 align="left">🌐 Web Development:</h3>
+<h3 align="left">🌐 Web Development</h3>
 <p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
@@ -79,7 +79,7 @@
     <img src="https://play-lh.googleusercontent.com/U4LDRU0MPf22CUPk6jRXO1JW4uuoRoGePkHxUp097T_K-wAUsdhe6PZs8XJZ5_LA8KA=w600-h300-pc0xffffff-pd" alt="wix studio" width="115" height="50"/>
 </p>
 
-<h3 align="left">🎨 Design and Graphics:</h3>
+<h3 align="left">🎨 Design and Graphics</h3>
 <p align="left"> 
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Canva_Logo.svg/480px-Canva_Logo.svg.png?20241218040754" alt="canva" width="" height="25"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="" height="30"/>
