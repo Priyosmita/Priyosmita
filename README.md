@@ -84,9 +84,13 @@
 </br>
 
 ## 📊 My Stats:
-<p style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyosmita&theme=dark&ring=FE8300&fire=FD5400&currStreakNum=FDBC00&sideNums=32cd32&sideLabels=ffa500&dates=adff2f&currStreakLabel=FF0061" alt="priyosmita" />
+<p style="text-align: justify;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyosmita&theme=radical&ring=FE8300&fire=FD5400&currStreakNum=FDBC00&sideNums=32cd32&sideLabels=ffa500&dates=adff2f&currStreakLabel=FF0061" 
+         alt="priyosmita" hspace="50" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyosmita&theme=radical&layout=compact&hide_border=true" 
+         alt="Top Languages" />
 </p>
+
 </br>
 
 </br>
