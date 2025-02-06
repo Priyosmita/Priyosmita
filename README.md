@@ -87,5 +87,7 @@
 <p style="text-align: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyosmita&theme=dark&ring=FE8300&fire=FD5400&currStreakNum=FDBC00&sideNums=32cd32&sideLabels=ffa500&dates=adff2f&currStreakLabel=FF0061" alt="priyosmita" />
 </p>
+</br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyosmita&label=Profile%20views&color=A383FF&style=flat" alt="priyosmita" /> </p>
+</br>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=priyosmita&label=Profile%20views&color=A383FF&style=flat" alt="priyosmita" /> </p>
