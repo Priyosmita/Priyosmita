@@ -23,7 +23,7 @@
 
 - 👩‍💻 I'm currently an intern at **RDK Technologies**
 
-- 🌱 I’m currently learning **Backend, Web 3, AI/ML**
+- 🌱 Constantly learning
 
 - 💬 Ask me about **Unreal Engine 5, Gaming, Web Design**
 
@@ -34,6 +34,8 @@
 - 🌷 You can visit my portfolio [here](https://priyosmita.vercel.app/) (it's still a work in progress:))
 
 - 🏆 **NASA Space Apps Noida '24 Winner, Google Hack4Change '24 Finalist, Wix Creators of Tomorrow Finalist (Global Top 5), SIH '24 Finalist, Upskill Mafia Web Dev Hackathon '24 Winner**
+
+- 💫 My hobbies are [🎧,🎸,🩰,🎮,🌊,📸,🪴,🎨]
 
 </br>
 
