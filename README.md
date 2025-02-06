@@ -25,8 +25,6 @@
 
 - 🌱 Constantly learning
 
-- 📫 Connect with me **daspriyosmita2003@gmail.com**
-
 - 📄 Know about my [Experiences](https://drive.google.com/file/d/1KmT-H-I-G3JvjYBXM-Qb9xuZXJ_VQLkZ/view?usp=drive_link)
 
 - 🌷 You can visit my portfolio [here](https://priyosmita.vercel.app/) (it's still a work in progress:))
@@ -43,7 +41,9 @@
 
 </br>
 
-## 🤝 Connect with me: <a href="https://linkedin.com/in/priyosmita-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyosmita-das" height="26" width="28" /></a> <a href="https://mail.google.com/mail/?view=cm&to=daspriyosmita2003@gmail.com" target="_blank">📧</a>
+## 🤝 Connect with me: <a href="https://mail.google.com/mail/?view=cm&to=daspriyosmita2003@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="daspriyosmita2003@gmail.com" height="26" /></a> , <a href="https://linkedin.com/in/priyosmita-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyosmita-das" height="26" width="28" /></a>
+
+
 
 </br>
 
