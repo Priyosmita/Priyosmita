@@ -41,7 +41,7 @@
 
 </br>
 
-## 🤝 Connect with me: <a href="https://mail.google.com/mail/?view=cm&to=daspriyosmita2003@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="daspriyosmita2003@gmail.com" height="26" /></a> , <a href="https://linkedin.com/in/priyosmita-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyosmita-das" height="26" width="28" /></a>
+## 🤝 Connect with me: <a href="https://mail.google.com/mail/?view=cm&to=daspriyosmita2003@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="daspriyosmita2003@gmail.com" height="26" /></a> , <a href="https://linkedin.com/in/priyosmita-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyosmita-das" height="30"/></a>
 
 
 
@@ -57,15 +57,15 @@
 
 <h3 align="left">🎮 Game Development</h3>
 <p align="left"> 
-    <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal engine 5" width="58" height="50"/>
-    <img src="https://www.pygame.org/docs/_static/pygame_logo.svg" alt="pygame" width="90" height="50"/>  
+    <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal engine 5" height="50"/>
+    <img src="https://www.pygame.org/docs/_static/pygame_logo.svg" alt="pygame" height="50"/>  
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Roblox_Studio_logo_-_2017-2021.svg/916px-Roblox_Studio_logo_-_2017-2021.svg.png?20221117210703" alt="roblox studio" width="50" height="50"/>
 </p>
 
 <h3 align="left">🌐 Web Development</h3>
 <p align="left"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
