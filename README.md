@@ -72,7 +72,7 @@
     <img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="nextjs" width="50" height="50"/>
     <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png" alt="threejs" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chart.js_logo.svg/768px-Chart.js_logo.svg.png" alt="chartjs" width="50" height="50"/>
-    <img src="https://static-00.iconduck.com/assets.00/wix-icon-2048x2048-petxyljo.png" alt="wix studio" height="50"/>
+    <img src="https://companieslogo.com/img/orig/WIX.D-9b5f1d10.png?t=1720244494" alt="wix studio" height="30"/>
 </p>
 
 <h3 align="left">🎨 Design and Graphics</h3>
