@@ -21,7 +21,7 @@
 ## 🦋 About Me 
 <!-- - 🚀 I’m currently working on [AIkya](https://github.com/Priyosmita/AIkya) and [Kali Yug](https://github.com/Priyosmita/Kali-Yug) -->
 
-- 👩‍💻 I'm currently an intern at **RDK Technologies**
+<!-- - 👩‍💻 I'm currently an intern at **RDK Technologies** -->
 
 - 🌱 Constantly learning
 
@@ -81,7 +81,7 @@
 </br>
 
 ## 🔗 Quick links:
-
+- [Game Development Projects List](https://github.com/Priyosmita/Game-Development-Projects)
 
 
 ## 📊 My Stats:
