@@ -15,7 +15,7 @@
 <h3 align="center">Welcome aboard the Github profile of a dedicated Tech enthusiast</h3>
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 
 ## 🦋 About Me 
@@ -82,14 +82,14 @@
 
 ## 🔗 Quick links:
 - 🎮 [Game Development Projects List](https://github.com/Priyosmita/Game-Development-Projects)
-
+</br>
 
 ## 📊 My Stats:
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyosmita&theme=radical&ring=FE8300&fire=FD5400&currStreakNum=FDBC00&sideNums=32cd32&sideLabels=ffa500&dates=adff2f&currStreakLabel=FF0061" 
          alt="priyosmita"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyosmita&theme=radical&layout=compact&hide_border=true" 
-         alt="Top Languages" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyosmita&theme=radical&layout=compact&hide_border=true" 
+         alt="Top Languages" /> -->
 </p>
 
 </br>
