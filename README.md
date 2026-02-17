@@ -59,7 +59,7 @@
 <p align="left"> 
     <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal engine 5" height="50"/>
     <img src="https://www.pygame.org/docs/_static/pygame_logo.svg" alt="pygame" height="50"/>  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Roblox_Studio_logo_-_2017-2021.svg/916px-Roblox_Studio_logo_-_2017-2021.svg.png?20221117210703" alt="roblox studio" width="50" height="50"/>
+    <img src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/6/2/f/62f64963b3b8eda573996bdfb646729e818ef77b.png" alt="roblox studio" width="50" height="50"/>
 </p>
 
 <h3 align="left">🌐 Web Development</h3>
@@ -71,15 +71,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
     <img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="nextjs" width="50" height="50"/>
     <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png" alt="threejs" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chart.js_logo.svg/768px-Chart.js_logo.svg.png" alt="chartjs" width="50" height="50"/>
+    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/chartjs-gbwxkdn5urp4w5jg9xk4g5.png/chartjs-p7803bgd17hc5uxtz82i.png?_a=DATAiZAAZAA0" alt="chartjs" width="50" height="50"/>
     <img src="https://companieslogo.com/img/orig/WIX.D-9b5f1d10.png?t=1720244494" alt="wix studio" height="30"/>
 </p>
 
 <h3 align="left">🎨 Design and Graphics</h3>
 <p align="left"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Canva_Logo.svg/480px-Canva_Logo.svg.png?20241218040754" alt="canva" height="25"/>
+    <img src="https://freelogopng.com/images/all_img/1656733807canva-icon-png.png" alt="canva" height="32"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="" height="30"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Microsoft_365_Copilot_Icon.svg/72px-Microsoft_365_Copilot_Icon.svg.png" alt="copilot" width="" height="40"/>
 </p>
 </br>
 
