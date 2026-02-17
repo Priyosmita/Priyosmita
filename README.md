@@ -81,7 +81,7 @@
 </br>
 
 ## 🔗 Quick links:
-- [Game Development Projects List](https://github.com/Priyosmita/Game-Development-Projects)
+- 🎮 [Game Development Projects List](https://github.com/Priyosmita/Game-Development-Projects)
 
 
 ## 📊 My Stats:
