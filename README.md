@@ -33,7 +33,7 @@
 
 - 💬 I'm multilingual: **English, বাংলা and हिन्दी**
 
-- 🎮 Building: Raii's Arcade for all web platforms
+- 🔧 Building: Raii's Arcade 
 
 </br>
 
